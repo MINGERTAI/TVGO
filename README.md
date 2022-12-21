@@ -9,3 +9,11 @@
 <https://g.leertai.top/py.json>
 
 <https://g.leertai.top/xbpq.json>
+
+<https://g.leertai.top/xb.json>
+
+<https://g.leertai.top/xyq.json>
+
+<https://g.leertai.top/xyqh.json>
+
+<https://g.leertai.top/xb.json>
