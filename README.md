@@ -1,3 +1,5 @@
 # TVBOXZY
 
 TVBOX
+
+j.json
